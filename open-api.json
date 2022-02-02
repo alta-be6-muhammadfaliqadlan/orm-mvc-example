@@ -1,0 +1,36 @@
+{
+    "openapi" : "3.0.3",
+    "info" : {
+        "title": "Immersive 6",
+        "contact": {
+            "name": "Mohammad Rizky ",
+            "email": "alterra@gmail.com"
+        }
+    },
+    "externalDocs": {
+
+    },
+    "servers": [
+
+    ],
+    "paths": {
+        "/user" : {
+            "get" : {
+
+            }
+        },
+        "/name": {
+            "get": {
+                "description": "",
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": "OK"
+                    }
+                }
+            }
+        }
+    }
+
+
+}
